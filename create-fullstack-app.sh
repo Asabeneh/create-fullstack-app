@@ -13,9 +13,9 @@ clear="\033[0m"
 
 echo "${green}
 ==============================================================
-============== ^_^  CONGRATULATIONS!   ^_^ ===================
-=============== Your app has been created ====================
-===  Navigate the different folders in the fullstack app   ===
+============    ^_^   CONGRATULATIONS!   ^_^    ==============
+========   Your fullstack app has been created     ===========
+=== Navigate to the different folders in the fullstack app ===
 ==============================================================
 ${clear}
 "
