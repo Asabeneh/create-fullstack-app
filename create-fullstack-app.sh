@@ -1,6 +1,7 @@
 #! /bin/bash
 
 name=$1
+$(cd playgrounds)
 $(mkdir $name)
 path="$(pwd)/$name"
 echo $path
